@@ -25,7 +25,7 @@ public class Fibonacci {
 	public static void main (String[] args) {
 		int i, n = 40, f1, f2;
 		System.out.print("n\tRecursive\tIterative\n");
-		System.out.print("--\t--------\t---------\n");
+		System.out.print("--\t---------\t---------\n");
 		long startTime, endTime;
 		int difference, difference2;
 		//loop from 20 to 40 
