@@ -47,7 +47,7 @@ public class Fibonacci {
 			// difference
 			difference2 = (int)((endTime - startTime) / 1e6); 
 			// output
-			System.out.print(i + "\t\t" + difference + "\t\t\t" + difference2 + "\t\n"); 
+			System.out.print(i + "\t\t" + difference + "\t\t" + difference2 + "\t\n"); 
 		}
 	}
 }
